@@ -1,0 +1,17 @@
+YUM configuration files
+
+       /etc/yum.conf
+
+       /etc/yum/repos.d/
+
+       /etc/yum/pluginconf.d/
+
+       /var/cache/yum/
+	   
+dnf
+CHG0111693 
+
+
+NY17W3057.resideo.com 	
+NY17W3058.resideo.com	
+ny17 windows jump servers
